@@ -18,6 +18,6 @@ Biblioteca simples em **Node.js** para calcular a diferença de tempo entre a **
 Clone este repositório:  
 
 ```bash
-git clone https://github.com/pedooor013/DNC-Node.JS.git
-cd DNC-Node.JS
+git clone https://github.com/pedooor013/diffDate---Library
+cd diffDate-Library
 npm install

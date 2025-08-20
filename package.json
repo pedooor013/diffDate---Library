@@ -1,6 +1,6 @@
 {
   "name": "diff-date-library",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Repositório criado para estudos na linguagem Node.js. Usa linguagem altamente performática para uso nos navegadores.",
   "main": "index.js",
   "scripts": {
