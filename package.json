@@ -1,5 +1,5 @@
 {
-  "name": "diff-date",
+  "name": "diff-date-library",
   "version": "1.0.0",
   "description": "Repositório criado para estudos na linguagem Node.js. Usa linguagem altamente performática para uso nos navegadores.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedooor013/DNC-Node.JS.git"
+    "url": "git+https://github.com/pedooor013/diffDate---Library"
   },
   "author": "Pedro Lopes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pedooor013/DNC-Node.JS/issues"
+    "url": "https://github.com/pedooor013/diffDate---Library/issues"
   },
-  "homepage": "https://github.com/pedooor013/DNC-Node.JS#readme"
+  "homepage": "https://github.com/pedooor013/diffDate---Library#readme"
 }
